@@ -1,5 +1,7 @@
 {
   "name": "reactonrails",
   "private": true,
-  "dependencies": {}
+  "dependencies": {
+    "flexboxgrid": "^6.3.1"
+  }
 }
